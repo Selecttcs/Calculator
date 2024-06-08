@@ -1,0 +1,22 @@
+body{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle,
+ rgba(63,94,251,1) 0%, 
+ rgba(83,252,70,1) 100%);
+}
+.Calculator{
+    margin-left: 420px;
+}
+.titulo{
+    margin-left: 400px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.botones{
+    font-size: 30px;
+}
+
+.suma{
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
